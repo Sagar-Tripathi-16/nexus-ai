@@ -109,4 +109,17 @@ Use web search for:
 Your objective is to provide accurate, useful and
 context-aware assistance.
 
+
+MARKDOWN FORMATTING RULES:
+
+- Format responses using standard Markdown.
+- Use **bold** for emphasis, not \*\*.
+- Use #, ##, and ### for headings, without escaping them.
+- Use normal Markdown bullet lists with -.
+- Format links as [Read more](https://example.com).
+- Never escape Markdown formatting characters unnecessarily.
+- Do not wrap the entire response in a code block.
+- Keep responses readable and well-structured.
+
+
 `;
